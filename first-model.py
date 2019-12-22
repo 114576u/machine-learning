@@ -1,4 +1,6 @@
 
+# Sample taken from
+# https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/#0
 
 import tensorflow as tf
 import numpy as np
